@@ -1,0 +1,8 @@
+galnagli@galnagli-VirtualBox:~/Desktop/FINALPROJECT$ ./assembler ps
+[Info] Successfully opened the file "ps.as".
+[Error] At line 5: "0MAIN" is illegal label - first char must be a letter.
+[Error] At line 12: "-6" is an invalid parameter.
+[Error] At line 17: No such label as "MAIN".
+[Error] At line 14: No such label as "r8"
+[Info] A total of 4 errors were found throughout "ps.as".
+
